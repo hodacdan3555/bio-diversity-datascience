@@ -7,11 +7,11 @@ Disclaimer: The data is inspired by real data, but mostly fictional.
 [![dfs.png](https://i.postimg.cc/P5mzMNgj/dfs.png)](https://postimg.cc/183qmRRC)
 
 ## View
-Please click on the .ipynb file to view the full report
+Please click on the .ipynb file to view the full report.
 
 ## Technologies: 
 
-Python(modules: pandas, numpy)
+Python(modules: pandas, numpy).
 
 ## License: 
 
